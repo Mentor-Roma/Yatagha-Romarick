@@ -3,6 +3,29 @@ permalink: /certifications/
 title: "Certifications"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### Completed Certifications
+1. **Google Cloud Junior Cyber Security Certificate**  
+   *Platform*: Google Cloud Skills Boost  
+   *Earned On*: November 2024  
+   *Description*: Gained foundational skills in cloud security, including identity and access management, network security, and data protection.  
+   *Link*: [View Certificate](https://www.cloudskillsboost.google/paths/419?utm_campaign=evergreen&utm_medium=website&utm_source=cgc)
+
+
+2. **Google Cloud Junior Cyber Security Certificate**  
+   ![Google Cloud Badge](link-to-badge-image)  
+   *Platform*: Google Cloud Skills Boost  
+   *Earned On*: November 2024  
+   *Link*: [View Certificate](https://www.cloudskillsboost.google/paths/419?utm_campaign=evergreen&utm_medium=website&utm_source=cgc)
+
+
+### Ongoing Certifications
+1. **AWS Certified Solutions Architect Associate**  
+   *Platform*: Amazon Web Services  
+   *Progress*: 50% Complete  
+   *Description*: Currently learning about AWS architecture best practices, security, and designing resilient cloud infrastructure.  
+
+2. **Certified Kubernetes Administrator (CKA)**  
+   *Platform*: Linux Foundation  
+   *Progress*: 75% Complete  
+   *Description*: Focusing on container orchestration, cluster management, and Kubernetes administration.
