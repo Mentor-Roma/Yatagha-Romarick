@@ -14,11 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Portfolio
-email: romarick.yatagha@framatome.com
+email: yatagharoma@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my cybersecurity research portfolio, where innovation meets resilience.
+  Explore my work in machine learning, anomaly detection, and securing critical infrastructures.
+  Here, you'll find insights from my ongoing PhD research, presentations at international conferences, and hands-on projects.
+  Join me on a journey to enhance the security of cyber-physical systems and industrial environments through cutting-edge 
+  research and real-world applications."
+
 twitter_username: username
 github_username: Mentor-Roma
 minimal_mistakes_skin: default
@@ -63,30 +66,21 @@ author:
   avatar : "/assets/images/roma-profile.png"
   bio    : "I am a cybersecurity researcher seeking interdisciplinary and challenging opportunities, where I can apply my skills in securing critical infrastructures and enhancing system security."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/romarick-yatagha-49549b1bb"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Mentor-Roma"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/romarick-yatagha-49549b1bb"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Mentor-Roma"
 
 defaults:
   # _posts
