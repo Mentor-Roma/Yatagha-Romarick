@@ -10,24 +10,18 @@ My academic background is rooted in mathematics, computer science, and cybersecu
 ## Education
 
 ### PhD in Cybersecurity (Ongoing)
-**Institution**: Technical University of XYZ  
-**Duration**: September 2022 - Present  
+**Institution**: Universität Siegen  
+**Duration**: October 2022 - Present  
 **Focus**: Researching machine learning applications for anomaly detection in cyber-physical systems and enhancing security for industrial control networks.
 
 ### MSc in Computer Networks and Distributed Services
-**Institution**: University of ABC  
-**Duration**: September 2019 - June 2021  
-**Thesis**: “Optimization of Distributed Network Security Using Machine Learning Techniques”  
-**Key Courses**: Advanced Networking, Distributed Systems, Cloud Security.
-**Research Focus**: Investigated the use of machine learning models to optimize network security in distributed environments.
+**Institution**: University of   Dschang
+**Duration**: October 2019 - August 2021  
+**Thesis**: “Fingerprint Recognition System Based on Machine Learning”  
+**Key Courses**: Advanced Algorithms, Distributed Systems, Cloud Security, Cryptography I & II.
 
 
-### BSc in Computer Science
-**Institution**: University of DEF  
-**Duration**: September 2015 - June 2018  
-**Focus**: Software engineering, algorithms, data structures, and cybersecurity fundamentals.
-
-### BSc in Mathematics
-**Institution**: University of DEF  
-**Duration**: September 2012 - June 2015  
-**Focus**: Applied mathematics, statistics, and data analysis, providing a strong foundation for computational thinking.
+### BSc in Combined Mathtematics & Computer Science
+**Institution**: University of Bamenda 
+**Duration**: October 2015 - June 2019  
+**Focus**: Analysis, Algebra, Number Theory, Software engineering, algorithms, data structures, and cybersecurity fundamentals.
