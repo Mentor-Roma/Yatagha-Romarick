@@ -44,14 +44,14 @@ title: "Publications"
 6. **"Understanding stegomalware in ICS: Attacks and Prevention"**  
    *Conference*: 9th IACS WS'24  
    *Authors*: Natasha Edeh, Romarick Yatagha, Oumayma Mejri, Karl Waedt  
-   *Date*: September 2024
+   *Date*: September 2024 
    [Full Paper](https://dl.gi.de/items/31c8f5ae-7cae-4a87-abba-2f30a0407058) 
 
 
 7. **"AI Defenders: Machine learning driven anomaly detection in critical infrastructures"**  
    *Conference*: 9th IACS WS'24  
    *Authors*: Betelhem Nebebe, Pavlina Kröckel, Romarick Yatagha, Natasha Edeh, Karl Waedt  
-   *Date*: September 2024
+   *Date*: September 2024 
    [Full Paper](https://dl.gi.de/items/68875743-0a1b-4023-a449-64ba981e5094) 
 
 
