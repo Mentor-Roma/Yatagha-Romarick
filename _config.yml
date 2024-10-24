@@ -60,7 +60,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-readtime
+  - jekyll-reading-time
+  - jekyll-read-time
 
 author:
   name   : "Romarick Yatagha"
