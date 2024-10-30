@@ -10,8 +10,9 @@ title: "Certifications"
    *Link*: [View Certificate](https://www.credly.com/badges/60f6fd27-1b18-464a-9fa4-c9586dfd437b)
 2. **Certified Cyber Security Technician**  
    *Platform*: EC-Council 
-   *Progress*: Course Completed, Awaiting Exams  
-   *Description*: This certification provides foundational knowledge and hands-on skills in areas such as network security, operating system security, incident response, and ethical hacking. It aims to equip participants with practical skills for securing networks, identifying vulnerabilities, and implementing mitigation strategies..  
+   *Progress*: Completed  
+   *Description*: This certification provides foundational knowledge and hands-on skills in areas such as network security, operating system security, incident response, and ethical hacking. It aims to equip participants with practical skills for securing networks, identifying vulnerabilities, and implementing mitigation strategies.. 
+   *Link*: [View Certificate](/assets/certificates/cct.png) 
 
 ### Attestations
 1. **Data Science Attestation** 
@@ -27,16 +28,3 @@ The course was taught by Sébastien Hoarau from Université de la Réunion, Thie
 
 
 
-2. **Google Cloud Junior Cyber Security Certificate**  
-   ![Google Cloud Badge](link-to-badge-image)  
-   *Platform*: Google Cloud Skills Boost  
-   *Earned On*: November 2024  
-   *Link*: [View Certificate](https://www.cloudskillsboost.google/paths/419?utm_campaign=evergreen&utm_medium=website&utm_source=cgc)
-
-
-
-
-2. **Certified Kubernetes Administrator (CKA)**  
-   *Platform*: Linux Foundation  
-   *Progress*: 75% Complete  
-   *Description*: Focusing on container orchestration, cluster management, and Kubernetes administration.
