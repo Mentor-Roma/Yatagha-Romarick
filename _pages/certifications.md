@@ -38,16 +38,28 @@ title: "Certifications"
       - Hardening GKE (Kubernetes) clusters and VM instances.
       - Securing serverless environments (Cloud Functions, App Engine).
    *Link*: [View Certificate]({{ site.baseurl }}/assets/certificates/ProfessionalCloudSecurityEngineer.pdf) 
-3. **Certified Cyber Security Technician**  
-   *Platform*: EC-Council  
-   *Progress*: Completed  
-   *Description*: This certification provides foundational knowledge and hands-on skills in areas such as network security, operating system security, incident response, and ethical hacking. It aims to equip participants with practical skills for securing networks, identifying vulnerabilities, and implementing mitigation strategies..  
+3. **CCertified Cybersecurity Technician (C|CT)**  
+   *Issuing Organiyation*: EC-Council  
+   *Date Obtained*: September 2024  
+   *Description*: The Certified Cybersecurity Technician Certification, offered by EC-Council is an entry-level credential that validates foundational skills in cybersecurity operations. It covers essential domains like network defense, digital forensics, and security protocols, providing hands-on experience with real-world tools. The following skills are acquired:
+   - Network Security Fundamentals
+      - Understanding of firewalls, IDS/IPS, VPNs, and secure network architecture
+      - Basic packet analysis using Wireshark and tcpdump
+   - Threat Identification
+      - Recognizing malware, phishing, and social engineering attacks
+      - Implementing incident response procedures for common threats
+   - System Hardening
+      - Applying OS hardening techniques (Windows/Linux)
+      - Configuring basic access controls and patch management
+   - Security Policies & Compliance
+      - Familiarity with NIST, ISO 27001
+      - Role-based access control (RBAC) and user awareness training  
    *Link*: [View Certificate]({{ site.baseurl }}/assets/certificates/cct.png) 
 4. **Google Cloud Junior Cyber Security Certificate**  
    *Platform*:  Google Cloud Skills Boost  
    *Earned On*: August 2024  
    *Description*: Gained foundational skills in cloud security, including identity and access management, network security, and data protection.  
-   *Link*: [View Certificate](https://www.credly.com/badges/60f6fd27-1b18-464a-9fa4-c9586dfd437b)
+   *Link*: [View Badge](https://www.credly.com/badges/60f6fd27-1b18-464a-9fa4-c9586dfd437b)
 
 ### Attestations
 1. **Data Science Attestation** 

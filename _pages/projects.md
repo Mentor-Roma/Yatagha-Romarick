@@ -4,49 +4,45 @@ title: "Projects"
 ---
 
 ### OWASP Top 10 Attack Simulation & Detection in OT Environments
-**Role:** Lead Researcher / Security Engineer
-**Tools & Technologies:**
-- *Testbed:* Real PLC (e.g., Siemens S7-1500), HMI (Ignition/FactoryTalk), Industrial Gateway, FortiSwitch, Simulated Water Control System (e.g., CORE). The testbed architecture is shown in ![Testbed](images/tesbed.png "Experimentation Testbed")
-- *Attacks Implemented:* Insider Threat (Access Control Manipulation), Data Exfiltration (Covert Channel), DoS.
-*Detection Tools:* Snort IDS, Machine Learning, Wireshark, FortiAnalyzer.
-
-- *Frameworks:* NIST SP 800-82 (OT Security), MITRE ATT&CK for ICS.
+**Role:** Lead Researcher / Security Engineer  
+**Tools & Technologies:**  
+*Testbed:*  
+    - Real PLC
+    - HMI
+    - Industrial Gateway
+    - FortiSwitch
+    - Simulated Water Control System (e.g., CORE)
+The testbed architecture is shown in ![Testbed](assets\images\testbed.png "Experimentation Testbed")  
+*Attacks Implemented:*
+    - Insider Threat (Access Control Manipulation)
+    - Data Exfiltration (Covert Channel)
+    - Denial of Service.  
+*Detection Tools:* 
+    - Snort IDS
+    - Machine Learning
+    - CACAO playbooks 
 
 ## Project Overview
 Designed and executed a real-world OT security research project to simulate critical OWASP Top 10 attacks on an industrial testbed, followed by deploying detection mechanisms. Collaborated with interns to analyze attack patterns and develop mitigations.
 
 Key Contributions
-1. Attack Simulations
-Insider Threat (Access Control Manipulation):
+## 1. Attack Simulations
+- *Insider Threat (Access Control Manipulation):*
+    - Insider manipulates the Access Control List to grant access to outsider, and whitelists his email address for 2FA. 
+    - Outsider attacker can now access the PLC remotely and modify the control logic
+- *Data Exfiltration via Covert Channel:*
+    - Using timing modulation, as series of bits conveying a message is transmitted from the raspberry to the outsider computer
+- *Denial of Service (DoS) on OT Protocols:*
+    - With VPN access to the LAN, outsider floods the controller with SYN-packets
 
-Insider manipulates the Access Control List to grant access to outsider, and whitelists his email address for 2FA. Outsider attacker can now access the PLC remotely and modify the control logic
-
-Data Exfiltration via Covert Channel:
-
-Using timing modulation, as series of bits conveying a message is transmitted from the raspberry to the outsider computer
-
-Denial of Service (DoS) on OT Protocols:
-
-With VPN access to the LAN, outsider floods the controller with SYN-packets
-
-2. Detection Mechanisms
-Playbooks:
-Access Control List are monitored by network sensors, and a playbook is launched when any ACL modification is detected. The playbook informs the rightfull admins to verify and confirm the changes, but can also carry out automated tasks
-
-Signature-Based (Snort IDS):
-
-Developed custom Snort rules to detect malicious Modbus traffic (e.g., abnormal function codes, excessive requests).
-
-Deployed on the FortiSwitch to monitor east-west traffic.
-
-Anomaly Detection (Machine Learning):
-
-Trained ML models (VAE-LSTM networks) on network telemetry (PCAPs) to flag covert channels and 
-
-
-Part of research presented and published at conferences (See Publication and Post sections)
-
-Mentored interns in attack modeling, Snort rule development, and ML for OT security.
+## 2. Detection Mechanisms
+- *Playbooks:*
+    - Access Control List are monitored by network sensors, and a playbook is launched when any ACL modification is detected. The playbook informs the rightfull admins to verify and confirm the changes, but can also carry out automated tasks
+- Signature-Based (Snort IDS):
+    - Developed custom Snort rules to detect malicious pattern in the traffic data
+- Anomaly Detection (Machine Learning):
+    - Trained ML models (VAE-LSTM networks) on network data to flag covert channels and 
+Part of research presented and published at conferences (See Publication and Post sections). Mentored interns in attack modeling, Snort rule development, and ML for OT security.
 
 
 
