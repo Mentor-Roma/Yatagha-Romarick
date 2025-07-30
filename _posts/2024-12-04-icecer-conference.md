@@ -1,5 +1,5 @@
 ---
-title: "Presenting at IEEE ECE 2024 in Botswana"
+title: "Presenting at IEEE ICECER 2024 in Botswana"
 categories:
   - Conference
 tags:
