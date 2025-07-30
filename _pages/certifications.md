@@ -3,16 +3,32 @@ permalink: /certifications/
 title: "Certifications"
 ---
 ### Certifications
-1. **Google Cloud Junior Cyber Security Certificate**  
-   *Platform*:  Google Cloud Skills Boost 
-   *Earned On*: August 2024  
-   *Description*: Gained foundational skills in cloud security, including identity and access management, network security, and data protection.  
-   *Link*: [View Certificate](https://www.credly.com/badges/60f6fd27-1b18-464a-9fa4-c9586dfd437b)
-2. **Certified Cyber Security Technician**  
+1. **Certified Ethical Hacker (CEH v13)**  
+   *Issuing Organization*: EC-Council 
+   *Date Obtained*: July 2025  
+   *Description*: The CEH accredited by EC-Council, is a globally recognized certification that validates expertise in offensive cybersecurity. It equips professionals with the knowlege and ability to think like a hacker (using the same tools and techniques) but ethically, to identify and remediate vulnerabilities in systems, networks and applications. The certification covers 20 modern attack vectors, including cloud security, IoT hacking, and malware analysis, aligning with real-world threats. By earning the CEH, I've demonstrated hands-on proficiency in the following skills:
+   - Penetration Testing
+   - Network Security & Vulnerability Assessment
+   - Footprinting & Reconniassance
+   - Social Engineering & Phishing Attacks
+   - Cryptography & System Hacking
+   - Cloud Security & IoT Hacking
+   *Link*: [View Certificate]({{ site.baseurl }}/assets/certificates/ECC-CEH-Certificate.pdf) 
+2. **Professional Cloud Security Engineer (PCSE)**  
+   *Issuing Organization*: Google 
+   *Date Obtained*: June 2025  
+   *Description*: The PCSE certification, offered by Google Cloud, validates expertise in designing, implementing, and managing secure infrastructure in the cloud. This certification demonstrates hands-on proficiency in cloud security best practices, including identity/access management, data protection, network security, and threat mitigation. As a PCSE, I have mastered the skills to configure secure workloads, enforce compliance (e.g., GDPR and HIPAA), and respond to incidents using Google Cloud's native security tools like Security Command Center, Cloud IAM, and VPC Service Controls.
+   *Link*: [View Certificate]({{ site.baseurl }}/assets/certificates/ProfessionalCloudSecurityEngineer.pdf) 
+3. **Certified Cyber Security Technician**  
    *Platform*: EC-Council 
    *Progress*: Completed  
    *Description*: This certification provides foundational knowledge and hands-on skills in areas such as network security, operating system security, incident response, and ethical hacking. It aims to equip participants with practical skills for securing networks, identifying vulnerabilities, and implementing mitigation strategies..  
    *Link*: [View Certificate]({{ site.baseurl }}/assets/certificates/cct.png) 
+4. **Google Cloud Junior Cyber Security Certificate**  
+   *Platform*:  Google Cloud Skills Boost 
+   *Earned On*: August 2024  
+   *Description*: Gained foundational skills in cloud security, including identity and access management, network security, and data protection.  
+   *Link*: [View Certificate](https://www.credly.com/badges/60f6fd27-1b18-464a-9fa4-c9586dfd437b)
 
 ### Attestations
 1. **Data Science Attestation** 
