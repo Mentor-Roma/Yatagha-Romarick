@@ -62,11 +62,11 @@ Developed a dual-layer safety system for a water treatment plant to prevent unsa
 - Calculated system state using thermodynamic principles before execution
 - Blocked commands violating safety thresholds  
 
-### 3. AI-Driven Anomaly Detection (VAE-LSTM Hybrid)
+### 3. AI-Driven Anomaly Detection (VAE-LSTM Hybrid)  
 - Variational Autoencoder: Compressed sensor data into latent space
 - Long Short Term Memory: Detected temporal anomalies, using a windows of multiple system snapshots  
 
-Both approaches are combined to block malicious or errorneous commands and detect stealthy attacks by monitoring process data directly.
+Both approaches are combined to block malicious or errorneous commands and detect stealthy attacks by monitoring process data directly.  
 
 ## Zero-Day Vulnerability Discovery in Safety I&C Systems via Fuzz Testing
 **Role:** Fuzz Testing Engineer / Security Researcher  
