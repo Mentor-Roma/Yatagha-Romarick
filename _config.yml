@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "Romarick Yatagha"
   avatar : "/assets/images/roma-profile.png"
-  bio    : "I am a cybersecurity researcher seeking interdisciplinary and challenging opportunities, where I can apply my skills in securing critical infrastructures and enhancing system security."
+  bio    : "CCybersecurity professional with 5+ years of hands-on experience securing critical infrastructure, including fuzz testing and AI-driven anomaly detection for nuclear I&C system. Certified CEH and Google Cloud Security Engineer with expertise in NIST SP 800-82, IAEA NSS, and ISO/IEC 27001 standards. Published researcher at ACM/IEEE conferences, and technical trainer specializing in secure architectures for Industrial Control Systems"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"

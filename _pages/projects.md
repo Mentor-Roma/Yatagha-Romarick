@@ -18,7 +18,7 @@ Designed and executed a real-world OT security research project to simulate crit
     - Industrial Gateway
     - FortiSwitch
     - Simulated Water Control System (e.g., CORE)  
-The testbed architecture is shown in ![Testbed](assets\images\testbed.png "Experimentation Testbed")  
+The testbed architecture is shown in [Testbed](assets\images\testbed.png "Experimentation Testbed")  
 - *Attacks Implemented:*
     - Insider Threat (Access Control Manipulation)
     - Data Exfiltration (Covert Channel)
