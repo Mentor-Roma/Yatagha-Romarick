@@ -18,7 +18,7 @@ Designed and executed a real-world OT security research project to simulate crit
     - Industrial Gateway
     - FortiSwitch
     - Simulated Water Control System (e.g., CORE)  
-The testbed architecture is shown in [Testbed](assets\images\testbed.png "Experimentation Testbed")  
+The testbed architecture is shown in [Testbed]({{ site.baseurl }}/assets/images/testbed.png)
 - *Attacks Implemented:*
     - Insider Threat (Access Control Manipulation)
     - Data Exfiltration (Covert Channel)
@@ -46,6 +46,34 @@ The testbed architecture is shown in [Testbed](assets\images\testbed.png "Experi
 - Anomaly Detection (Machine Learning):
     - Trained ML models (VAE-LSTM networks) on network data to flag covert channels and 
 Part of research presented and published at conferences (See Publication and Post sections). Mentored interns in attack modeling, Snort rule development, and ML for OT security.
+
+
+
+
+## SYNAPSE Cybersecurity Platform Infrastructure Setup 
+
+### 1. Project Overview  
+As the infrastructure lead for the SYNAPSE cybersecurity platform, I deployed and configured two Dell PowerEdge servers with Proxmox VE to host critical VMs and containers. I designed a secure networking architecture using an OPNsense firewall VM to manage traffic routing, filtering, and VLAN segmentation, while implementing WireGuard VPN with RBAC to enable secure remote access for project partners. This on-premises virtualization setup ensured high availability and cost efficiency, for hosting the SYNAPSE platform.
+
+### 2. Technologies & Tools:  
+- **Hardware:** Dell PowerEdge Servers
+- **Virtualization:** Proxmox VE (Cluster Setup, KVM VMs, LXC Containers)
+- **Networking:** OPNsense Firewall/Router, WireGuard VPN, VLAN Segmentation  
+
+### 3. Server Deployment & Virtualization
+- Hardware Setup
+    - Deployed and configured two Dell PowerEdge servers (RAID, ILO) for high availability and remote maintenance
+    - Installed Proxmox VE as the hypervisor, configured storage and backup schedules
+- Virtualized Environment
+    - Created isolated VMs and LXC containers to host the cybersecurity platform components (SIEM, Snort IDS...)
+    - Allocated resources based on workload requirements
+
+
+### 4. Secure Networking & Remote Access
+- Designed a DMZ architecture with OPNsense as the gateway VM, handling traffic filtering and NAT routing between VLANS
+- Configured WireGuard VPN for secure remote access by project partners
+- Implemented role-based access control (RBAC) for VPN users
+
 
 
 
