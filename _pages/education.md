@@ -17,11 +17,11 @@ My academic background is rooted in mathematics, computer science, and cybersecu
 ### MSc in Computer Networks and Distributed Services
 **Institution**: University of   Dschang
 **Duration**: October 2019 - August 2021  
-**Thesis**: “A Fingerprint Recognition System Based on Machine Learning”  [copy]({{ site.baseurl }}/assets/certificates/INF512_YATAGHA_Roma_dissertation.pdf)
+**Thesis**: “A Fingerprint Recognition System Based on Machine Learning”  [copy]({{ site.baseurl }}/assets/certificates/INF512_YATAGHA_Roma_dissertation.pdf)  
 **Key Courses**: Advanced Algorithms, Distributed Systems, Cloud Security, Cryptography I & II.
 
 
 ### BSc in Combined Mathtematics & Computer Science
 **Institution**: University of Bamenda 
 **Duration**: October 2015 - June 2019  
-**Focus**: Analysis, Algebra, Number Theory, Software engineering, algorithms, data structures, and cybersecurity fundamentals.
+**Focus**: Analysis, Algebra, Number Theory, Introduction to Software engineering, algorithms, data structures, and cybersecurity fundamentals.
