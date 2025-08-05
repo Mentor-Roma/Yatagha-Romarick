@@ -2,7 +2,6 @@
 permalink: /certifications/
 title: "Certifications"
 ---
-### Certifications
 1. **Certified Ethical Hacker (CEH v13)**  
    *Issuing Organization*: EC-Council  
    *Date Obtained*: July 2025  

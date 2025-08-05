@@ -4,10 +4,6 @@ title: "Publications"
 ---
 
 
-### Publications
-
-## Publications
-
 1. **"A Combined Gradient-Based and Label-Flipping Attack on ML-Based Anomaly Detection in Cyber-Physical Systems"**  
    *Conference*: 7th Annual Workshop on Cyber Threat Intelligence and Hunting (CyberHunt'24)
    *Authors*: Romarick Yatagha, Natasha Edeh, Karl Waedt, Christoph Ruland  

@@ -17,7 +17,7 @@ My academic background is rooted in mathematics, computer science, and cybersecu
 ### MSc in Computer Networks and Distributed Services
 **Institution**: University of   Dschang
 **Duration**: October 2019 - August 2021  
-**Thesis**: “Fingerprint Recognition System Based on Machine Learning”  
+**Thesis**: “A Fingerprint Recognition System Based on Machine Learning”  [copy]({{ site.baseurl }}/assets/certificates/INF512_YATAGHA_Roma_dissertation.pdf)
 **Key Courses**: Advanced Algorithms, Distributed Systems, Cloud Security, Cryptography I & II.
 
 
