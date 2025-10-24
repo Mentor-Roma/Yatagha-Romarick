@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-title: "Welcome to My Portfolio"
 ---
 
 My work sits at the intersection of academic research and industrial security. I work as a Cybersecurity engineer at Framatome GmbH, where I focus on protecting critical infrastructure. This involves hands-on work, from hardening systems against threats and managing the security of Linux servers to running vulnerability scans, and even simulating controlled attacks on industrial control systems to better understand  their weaknesses.

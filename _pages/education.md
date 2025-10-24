@@ -9,7 +9,7 @@ My academic background is rooted in mathematics, computer science, and cybersecu
 
 ## Education
 
-### PhD in Cybersecurity (Ongoing)
+### PhD in Cybersecurity 
 **Institution**: Universität Siegen  
 **Duration**: January 2023 - Present  
 **Focus**: Researching machine learning applications for anomaly detection in cyber-physical systems and enhancing security for industrial control networks.
