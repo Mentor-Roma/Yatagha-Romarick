@@ -61,11 +61,11 @@ title: "Certifications"
    *Link*: [View Badge](https://www.credly.com/badges/60f6fd27-1b18-464a-9fa4-c9586dfd437b)
 
 ### Attestations
-1. **Data Science Attestation** 
+1. **Data Science Attestation**   
 In February 2022, I successfully completed the MOOC titled Introduction to Data Science and its Challenges offered by CY Cergy Paris Université through the FUN MOOC platform. This course provided a foundational understanding of the core principles of data science, covering topics such as data collection, analysis, and interpretation, along with their practical applications in different domains.
 The course was led by Matthieu Cisel, an experienced researcher and instructor, and gave me an opportunity to explore data science from both theoretical and practical perspectives. [View certificate]({{ site.baseurl }}/assets/certificates/data-science-certificate.pdf)
 
-2. **Pyhton Programming Attestation**
+2. **Pyhton Programming Attestation**  
 In May 2021, I successfully completed the MOOC titled Learn to Code with Python, offered by the Université Libre de Bruxelles (ULB) through the FUN MOOC platform. This course introduced me to the fundamentals of Python programming, covering topics like data types, control structures, functions, and basic problem-solving techniques.
 The course was taught by Sébastien Hoarau from Université de la Réunion, Thierry Massart from ULB, and Isabelle Poirier from Académie de Montpellier. Python language in one of the most widely used programming languages in data science and cybersecurity. [View certificate]({{ site.baseurl }}/assets/certificates/FormationPython.pdf)
 

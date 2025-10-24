@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Digital Portfolio
+title: Romarick Yatagha
 email: yatagharoma@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my cybersecurity research portfolio, where innovation meets resilience.
@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "Romarick Yatagha"
   avatar : "/assets/images/roma-profile.png"
-  bio    : "Cybersecurity professional with 5+ years of hands-on experience securing critical infrastructure, including fuzz testing and AI-driven anomaly detection for nuclear I&C system. Certified CEH and Google Cloud Security Engineer with expertise in NIST SP 800-82, IAEA NSS, and ISO/IEC 27001 standards. Published researcher at ACM/IEEE conferences, and technical trainer specializing in secure architectures for Industrial Control Systems"
+  bio    : "Cybersecurity professional with 5+ years of hands-on experience in IT and OT security, including AI-driven anomaly detection and fuzz testing of industrial control system. Certified CEH and Google Cloud Security Engineer with expertise in IEC 62443, and ISO/IEC 27001 standards. Published researcher at ACM/IEEE conferences, and technical trainer specializing in secure architectures for Industrial Control Systems"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
