@@ -11,13 +11,13 @@ My academic background is rooted in mathematics, computer science, and cybersecu
 
 ### PhD in Cybersecurity (Ongoing)
 **Institution**: Universität Siegen  
-**Duration**: October 2022 - Present  
+**Duration**: January 2023 - Present  
 **Focus**: Researching machine learning applications for anomaly detection in cyber-physical systems and enhancing security for industrial control networks.
 
 ### MSc in Computer Networks and Distributed Services
-**Institution**: University of   Dschang
+**Institution**: University of Dschang
 **Duration**: October 2019 - August 2021  
-**Thesis**: “A Fingerprint Recognition System Based on Machine Learning”  [copy]({{ site.baseurl }}/assets/certificates/INF512_YATAGHA_Roma_dissertation.pdf)  
+**Thesis**: “A Fingerprint Recognition System Based on Machine Learning”  
 **Key Courses**: Advanced Algorithms, Distributed Systems, Cloud Security, Cryptography I & II.
 
 
